@@ -1,0 +1,17 @@
+[
+{
+  "directory": "C:/Users/Nikolaj/Desktop/C C++/code week 12 (cpp, OOP intro, classes)/assignment-12-Nestorer/build",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe  @CMakeFiles/mymath.dir/includes_CXX.rsp -g -std=gnu++14 -o CMakeFiles\\mymath.dir\\src\\duration.cpp.obj -c \"C:\\Users\\Nikolaj\\Desktop\\C C++\\code week 12 (cpp, OOP intro, classes)\\assignment-12-Nestorer\\src\\duration.cpp\"",
+  "file": "C:/Users/Nikolaj/Desktop/C C++/code week 12 (cpp, OOP intro, classes)/assignment-12-Nestorer/src/duration.cpp"
+},
+{
+  "directory": "C:/Users/Nikolaj/Desktop/C C++/code week 12 (cpp, OOP intro, classes)/assignment-12-Nestorer/build",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe  @CMakeFiles/main.dir/includes_CXX.rsp -g -std=gnu++14 -o CMakeFiles\\main.dir\\src\\main.cpp.obj -c \"C:\\Users\\Nikolaj\\Desktop\\C C++\\code week 12 (cpp, OOP intro, classes)\\assignment-12-Nestorer\\src\\main.cpp\"",
+  "file": "C:/Users/Nikolaj/Desktop/C C++/code week 12 (cpp, OOP intro, classes)/assignment-12-Nestorer/src/main.cpp"
+},
+{
+  "directory": "C:/Users/Nikolaj/Desktop/C C++/code week 12 (cpp, OOP intro, classes)/assignment-12-Nestorer/build/tests",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe  @CMakeFiles/tests.dir/includes_CXX.rsp -g -std=gnu++14 -o CMakeFiles\\tests.dir\\src\\tests.cpp.obj -c \"C:\\Users\\Nikolaj\\Desktop\\C C++\\code week 12 (cpp, OOP intro, classes)\\assignment-12-Nestorer\\tests\\src\\tests.cpp\"",
+  "file": "C:/Users/Nikolaj/Desktop/C C++/code week 12 (cpp, OOP intro, classes)/assignment-12-Nestorer/tests/src/tests.cpp"
+}
+]
