@@ -207,4 +207,4 @@ tests/CMakeFiles/tests.dir/src/tests.cpp.obj: \
  c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\regex_executor.h \
  c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\regex_executor.tcc \
  c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\iostream \
- c:\users\nikolaj\desktop\c\ c++\code\ week\ 12\ (cpp,\ oop\ intro,\ classes)\assignment-12-nestorer\src\duration.h
+ c:\users\nikolaj\desktop\c\ c++\code\ week\ 12\ (cpp,\ oop\ intro,\ classes)\assignment-12-nestorer\include\duration.h

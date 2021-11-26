@@ -230,7 +230,7 @@ tests/CMakeFiles/tests.dir/src/tests.cpp.obj: ../tests/src/tests.cpp \
   C:/MinGW/lib/gcc/mingw32/6.3.0/include/c++/bits/regex_executor.h \
   C:/MinGW/lib/gcc/mingw32/6.3.0/include/c++/bits/regex_executor.tcc \
   C:/MinGW/lib/gcc/mingw32/6.3.0/include/c++/iostream \
-  ../src/duration.h
+  ../include/duration.h
 
 
 ../tests/src/tests.cpp:
@@ -667,4 +667,4 @@ C:/MinGW/lib/gcc/mingw32/6.3.0/include/c++/bits/regex_executor.h:
 
 C:/MinGW/lib/gcc/mingw32/6.3.0/include/c++/iostream:
 
-../src/duration.h:
+../include/duration.h:

@@ -1,4 +1,4 @@
-#include "duration.h"
+#include "..\include\duration.h"
 
 #include <assert.h>
 #include <limits>
@@ -48,6 +48,8 @@ void Duration::setAlarm(int t)
 
 bool Duration::checkAndUpdateAlarm()
 {
+    // the following won't randomly happen when alarm defaults to max_int value.
+    // Any time greater than alarm won't make sense since the value will trigger integer overflow.
     if (time > alarm)
     {
         resetAlarm();

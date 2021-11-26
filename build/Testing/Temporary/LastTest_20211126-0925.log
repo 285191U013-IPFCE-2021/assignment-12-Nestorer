@@ -1,0 +1,21 @@
+Start testing: Nov 26 10:25 Vesteuropa, normaltid
+----------------------------------------------------------
+1/1 Testing: usage_test
+1/1 Test: usage_test
+Command: "C:/Users/Nikolaj/Desktop/C C++/code week 12 (cpp, OOP intro, classes)/assignment-12-Nestorer/build/tests/tests.exe"
+Directory: C:/Users/Nikolaj/Desktop/C C++/code week 12 (cpp, OOP intro, classes)/assignment-12-Nestorer/build/tests
+"usage_test" start time: Nov 26 10:25 Vesteuropa, normaltid
+Output:
+----------------------------------------------------------
+===============================================================================
+All tests passed (18 assertions in 3 test cases)
+
+<end of output>
+Test time =   0.28 sec
+----------------------------------------------------------
+Test Passed.
+"usage_test" end time: Nov 26 10:25 Vesteuropa, normaltid
+"usage_test" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Nov 26 10:25 Vesteuropa, normaltid
